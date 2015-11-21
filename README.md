@@ -4,16 +4,18 @@ Käytä koodia vain yksityisin projekteihin
 Koodin myynti on kiellety Oikeuksien poisto koodista on myös kielletty tekijäoikeus kuulluu tekijälle!
 
 <h3>Päivitykset</h3>
-1.0.0
-Koko koodisto julkaistu 
-Ominaisuudet
--login
--register
--oikeudet (admin, mode, user)
--käyttäjä lista (Vain kirjautuneille)
-Hyvät ja huonot puolet
-+oikeudet 
-+registeri
-+oikeudet
--------------------
--saatta joskus tökkiä (ehkä johtuu mun konesta vain!)
+1.0.0<br>
+Koko koodisto julkaistu <br>
+Ominaisuudet<br>
+login<br>
+register<br>
+oikeudet (admin, mode, user)<br>
+käyttäjä lista (Vain kirjautuneille)<br>
+Hyvät ja huonot puolet<br>
++bootstrap Pohjainen<br> 
++oikeudet <br>
++registeri<br>
++oikeudet<br>
+-------------------<br>
+-Ei ole ulkoasuja<br>
+-saatta joskus tökkiä (ehkä johtuu mun konesta vain!)<br>
